@@ -12,7 +12,7 @@ work sample is [**rag-eval-harness**](https://github.com/nicholasbuenger/rag-eva
 
 ## What I've built
 
-**FarmaciaOS** — pharmacy management platform *(private)*
+**FarmaciaOS™** — pharmacy management platform *(private)*
 Modular ERP for Swiss pharmacies: dispensing, accounting, controlled-substances
 registry, audit trails, robotic dispensing (WWKS2), e-prescription, MediData/HCI
 e-health integrations. Ships an on-premise AI module: an open-weight LLM served
